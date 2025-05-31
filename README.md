@@ -16,3 +16,5 @@ I used Chatgpt as well as Youtube for understanding the concept, I used the  AI 
 
 *OUTPUT
 
+![Image](https://github.com/user-attachments/assets/6f7cfc00-52b3-4d5a-a822-a56158b49c2c)
+
